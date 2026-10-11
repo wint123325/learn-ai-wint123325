@@ -2,9 +2,9 @@
 ## 一个悲伤的晚上
 ![alt text](71d526a0e412838564421a4e0ef5c6fd-1.jpg)
 ### 为什么悲伤
-因为搞了一晚上 GIT!<br>
+因为搞了一晚上 Git!<br>
 但还要学 Markdown.......<br>
-[Markdown语法](https://markdown.com.cn)
+[Markdown 语法](https://markdown.com.cn)
 #### 先写一段 C 语言<br>
 ```c
 #include <stdio.h>
@@ -16,8 +16,10 @@ int main(void)
 }
 ```
 ##### 还有一个表格。。。
+
 | 1 | 2 | 3 | 4 |
 | :--- | :--- | :--- | :--- |
 | @ | # | $ | % |
 | ^ | & | * | ~ |
+
 ***over***
